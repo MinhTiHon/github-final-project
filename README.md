@@ -3,9 +3,6 @@
 
 
 # Toi la Tran Huu Dung
-# thuc hanh cho final lan 1
-
-# thuc hanh cho final lan 100
 
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
